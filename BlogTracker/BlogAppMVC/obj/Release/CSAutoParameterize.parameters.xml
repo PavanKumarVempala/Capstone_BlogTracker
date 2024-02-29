@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="BlogAppMVCContext-Web.config Connection String" description="BlogAppMVCContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=DESKTOP-U064AL2; Initial Catalog=capstoneDb;Trusted_Connection=True; TrustServerCertificate=true; " tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\vpava\.DESKTOP-U064AL2\\Downloads\\Capstone-BlogTracker-master\\Capstone-BlogTracker-master\\BlogAppMVC\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='BlogAppMVCContext']/@connectionString" />
+  </parameter>
+</parameters>
